@@ -31,7 +31,7 @@ This is my personal portfolio website built with HTML, CSS, and JavaScript. It s
 
 ## 📸 Screenshots
 
-_Add some screenshots of your portfolio here if you want_
+_[Screenshot 2025-04-17 004302.png]_
 
 ## 📬 Contact
 
